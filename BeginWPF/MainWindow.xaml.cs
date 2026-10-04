@@ -60,7 +60,7 @@ namespace BeginWPF
                 Content = string.Join("\n", new List<MyCats>
                 {
                     new MyCats("Мурка", 2, "Чорний", "Дівчинка"),
-                    new MyCats("Кузя", 1, "Чорний", "Хлопчик"),
+                    new MyCats("Кузя", 1, "Чорний", "Дівчинка"),
                     new MyCats("Сніжок", 1, "Білий", "Хлопчик"),
                     new MyCats("Петро", 0, "Чорний", "Пацан"),
                     new MyCats("Лола", 0, "Чорний", "Дівчинка"),
