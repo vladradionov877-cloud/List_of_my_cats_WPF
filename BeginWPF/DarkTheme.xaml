@@ -1,0 +1,7 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <SolidColorBrush x:Key="MainGridBackgroundColor" Color="#222222"/>
+    <SolidColorBrush x:Key="SecondGridBackgroundColor" Color="#1E1E1E"/>
+    <SolidColorBrush x:Key="TextColor" Color="#FFFFFF"/>
+
+</ResourceDictionary>
